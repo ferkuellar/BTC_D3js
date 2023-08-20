@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes una versión enriquecida de la descripción que incluye ejemplos gráficos e instrucciones de instalación detalladas.
-
----
-
 # Gráfica en Tiempo Real del Precio de Bitcoin (BTC)
 
 El monitoreo en tiempo real del mercado de criptomonedas es esencial para los inversores y traders. Este proyecto proporciona una visión detallada y actualizada de los precios de Bitcoin (BTC), ofreciendo una herramienta robusta y visualmente atractiva.
@@ -37,7 +33,7 @@ Utilizando tecnologías modernas como D3.js, JavaScript, HTML y CSS, este proyec
 
 ## Contribución y Soporte
 
-Las contribuciones, los comentarios y las sugerencias son bienvenidos. Siéntase libre de abrir un problema o hacer un pull request. Para soporte directo, puede contactarme a través de [your-email@example.com](mailto:your-email@example.com).
+Las contribuciones, los comentarios y las sugerencias son bienvenidos. Siéntase libre de abrir un problema o hacer un pull request. Para soporte directo, puede contactarme a través de [kuellarfer@gmail.com](mailto:kuellarfer@gmail.com).
 
 ## Licencia
 
@@ -45,12 +41,5 @@ Distribuido bajo la Licencia MIT. Vea `LICENSE` para más información.
 
 ## Autor
 
-[Your Full Name](https://github.com/your-username) - Desarrollador de Software, Especialista en Visualización de Datos
+[Fernando Cuellar](https://github.com/ferkuellar) - Desarrollador de Software, Especialista en Visualización de Datos
 
----
-
-Asegúrate de reemplazar "path/to/candlestick-chart.png" y "path/to/tooltip-example.png" con las rutas reales a las imágenes que desees incluir. Estas imágenes ofrecerán una vista previa visual de las características clave de tu proyecto.
-
-Las instrucciones de instalación pueden variar según la estructura y las dependencias de tu proyecto, así que asegúrate de ajustarlas según tus necesidades.
-
-¡Espero que esta versión cumpla con tus expectativas!
