@@ -41,5 +41,5 @@ Distribuido bajo la Licencia MIT. Vea `LICENSE` para más información.
 
 ## Autor
 
-[Fernando Cuellar](https://github.com/ferkuellar) - Desarrollador de Software, Especialista en Visualización de Datos
+[Fernando Cuellar](https://github.com/ferkuellar) - Data Engineer, Especialista en Visualización de Datos
 
