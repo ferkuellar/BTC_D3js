@@ -1,0 +1,43 @@
+/* Estilo para el contenedor de la gráfica */
+#chart {
+    font-family: 'Arial', sans-serif;
+    background-color: #ecf0f1; /* Fondo claro */
+    padding: 20px;
+    border-radius: 10px; /* Bordes redondeados para el contenedor */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil alrededor del contenedor */
+}
+
+/* Estilo para la línea de la gráfica */
+.line {
+    fill: none;
+    stroke: #2c3e50; /* Color oscuro para la línea */
+    stroke-width: 2.5px;
+    transition: all 0.5s ease; /* Transición suave para la línea */
+}
+
+/* Estilo para los ejes */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #95a5a6; /* Color gris suave para los ejes */
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    color: #34495e; /* Color oscuro para el texto de los ejes */
+}
+
+/* Estilo para los tooltips */
+.tooltip {
+    position: absolute;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    pointer-events: none; /* Ignorar eventos de puntero en el tooltip */
+    font-size: 12px;
+    opacity: 0; /* Inicialmente oculto */
+    transition: opacity 0.3s ease; /* Transición suave para el tooltip */
+}
